@@ -13,7 +13,8 @@ Usage:
 
 To use the program, simply compile and run it. You will be prompted to enter the year, month, and date to decorate. You will also be asked to enter the mood (happy or sad). The program will then print the calendar.
 
-![image](https://github.com/yamin-401533/C_Programming_Project/assets/141956369/30c1cb9f-dfba-4438-beb0-54cdd5c0d9b9)
+![image](https://github.com/yamin-401533/C_Programming_Project/assets/141956369/464cfb6a-8292-4b94-ad04-d8c284f9fa51)
+
 
 
 
